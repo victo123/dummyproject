@@ -1,0 +1,4 @@
+D:\ReactLoginAndRegister-.NetCoreWebApi\.Net-Core-BackEnd\obj\Debug\netcoreapp2.2\IdentityServerTokenAuth.csprojAssemblyReference.cache
+D:\ReactLoginAndRegister-.NetCoreWebApi\.Net-Core-BackEnd\obj\Debug\netcoreapp2.2\IdentityServerTokenAuth.AssemblyInfoInputs.cache
+D:\ReactLoginAndRegister-.NetCoreWebApi\.Net-Core-BackEnd\obj\Debug\netcoreapp2.2\IdentityServerTokenAuth.AssemblyInfo.cs
+D:\ReactLoginAndRegister-.NetCoreWebApi\.Net-Core-BackEnd\obj\Debug\netcoreapp2.2\IdentityServerTokenAuth.csproj.CoreCompileInputs.cache
